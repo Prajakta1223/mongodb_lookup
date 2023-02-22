@@ -1,0 +1,54 @@
+
+#container{
+  position: relative;
+  top:50px;
+  height: 800px;
+  width: 800px;
+  border: 1px solid blue;
+  padding: 20px;
+  left: 200px;
+}
+.control{
+height: 27px;  
+width: 180px;
+margin-left: 3px;
+}
+#btn
+{
+margin-left:560px ;  
+}
+#table{
+  border:1px solid grey;
+  margin-left: 20px;
+  width: 700px;
+
+}
+th{
+  padding: 10px;
+  
+  text-align: center;
+}
+tr{
+  margin-left:23px;
+}
+span{
+color:red;
+}
+#addbtn-error
+{ 
+margin-left: 600px;
+font-weight: bold;
+}
+i{
+color: green;
+}
+#tbody{
+  width: 900px;
+}
+#ShowButton{
+  border:1px solid black;
+  padding:3px;
+  color: black;
+  background-color: rgb(249, 238, 238);
+  text-decoration:none;
+}
